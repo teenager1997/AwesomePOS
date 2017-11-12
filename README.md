@@ -1,6 +1,6 @@
 # awesomepos
 
-> 快管理系统店管理系统
+> 快餐管理系统店管理系统
 
 ## Build Setup
 
